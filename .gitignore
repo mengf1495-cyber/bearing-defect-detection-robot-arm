@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.out
+*.map
+*.lst
+Debug/
+Release/
+
+# Misc
+*.tmp
+*.bak
